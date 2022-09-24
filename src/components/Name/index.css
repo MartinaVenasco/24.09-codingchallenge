@@ -1,0 +1,21 @@
+.namesurname {display: flex;
+	 gap:20px;
+	justify-content: space-between;}
+	 
+	 .delete-btn {width: 20px;
+	height: 20px;
+
+border-radius: 100%;
+}
+p {margin: 0;}
+
+.contactList {display: flex;
+flex-direction: column;
+gap: 20px;
+justify-content: space-between;}
+
+.formcontact {display: flex;
+flex-direction: column;
+justify-content: flex-start;
+gap: 10px;}
+input {border-radius: 10px;}
